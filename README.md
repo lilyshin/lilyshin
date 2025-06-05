@@ -10,7 +10,7 @@
 
 ```bash
 $ whoami
-lily
+lilyshin
 
 $ neofetch
 ╭─────────────────────────────────╮
