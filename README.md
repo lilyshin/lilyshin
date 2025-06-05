@@ -25,7 +25,6 @@ $ neofetch
 │  CPU        Spring Boot Lover   │
 │  GPU        Real-time Systems   │
 │  Theme      Clean Architecture  │
-│  Status     🥛 Yogurt-powered   │
 ╰─────────────────────────────────╯
 
 $ cat interests.txt
