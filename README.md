@@ -10,7 +10,7 @@
 
 ```bash
 $ whoami
-lilyshin
+lily
 
 $ neofetch
 ╭─────────────────────────────────╮
@@ -25,6 +25,7 @@ $ neofetch
 │  CPU        Spring Boot Lover   │
 │  GPU        Real-time Systems   │
 │  Theme      Clean Architecture  │
+│  Status     🥛 Yogurt-powered   │
 ╰─────────────────────────────────╯
 
 $ cat interests.txt
@@ -86,17 +87,15 @@ kubernetes/  cloud-native/  system-design/
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 📊 Language Usage & Stats
 
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=lilyshin&show_icons=true&theme=default&hide_border=true&bg_color=f6f8fa&title_color=24292e&text_color=586069&icon_color=0366d6&count_private=true"/>
-</td>
-<td width="50%">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyshin&layout=compact&theme=default&hide_border=true&bg_color=f6f8fa&title_color=24292e&text_color=586069&langs_count=8&exclude_repo=repo1,repo2"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilyshin&hide_border=true&background=f6f8fa&ring=0366d6&fire=ff6b6b&currStreakLabel=24292e&sideLabels=24292e&currStreakNum=0366d6&sideNums=0366d6&dates=586069" />
-</td>
-</table>
+
+</div>
 
 ## 🏆 Achievements
 
