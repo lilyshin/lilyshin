@@ -91,7 +91,7 @@ kubernetes/  cloud-native/  system-design/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyshin&layout=compact&theme=default&hide_border=true&bg_color=f6f8fa&title_color=24292e&text_color=586069&langs_count=8&exclude_repo=repo1,repo2"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilyshin&layout=compact&theme=default&hide_border=true&bg_color=f6f8fa&title_color=24292e&text_color=586069&langs_count=8&exclude_repo="/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilyshin&hide_border=true&background=f6f8fa&ring=0366d6&fire=ff6b6b&currStreakLabel=24292e&sideLabels=24292e&currStreakNum=0366d6&sideNums=0366d6&dates=586069" />
 
