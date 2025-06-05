@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Seoul%2C%20KR-🇰🇷-blue?style=for-the-badge&labelColor=4285F4" />
+  <img src="https://img.shields.io/badge/Seongnam%2C%20KR-🇰🇷-blue?style=for-the-badge&labelColor=4285F4" />
   <img src="https://img.shields.io/badge/Experience-5%2B%20Years-green?style=for-the-badge&labelColor=34A853" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Systems-orange?style=for-the-badge&labelColor=FF6D01" />
   <img src="https://img.shields.io/badge/Yogurt-Powered-pink?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggM0gxNlY2SDhWM1oiIGZpbGw9IndoaXRlIi8+CjxwYXRoIGQ9Ik04IDZIMTZWMjFIOFY2WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white&labelColor=FF69B4" />
